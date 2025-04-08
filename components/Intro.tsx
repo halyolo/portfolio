@@ -20,7 +20,7 @@ export default function Intro() {
   return (
     <section className="max-w-3xl mx-auto text-center mb-12 text-gray-300">
       <h1 className="text-3xl font-bold mb-4">You Only Live Once</h1>
-      <p className="text-base mb-6">ただの技術大好き専門学生です</p>
+      <p className="text-base mb-6">ただの技術大好き専門学生</p>
 
       <div className="border-l-2 border-gray-600 pl-4 text-left space-y-6">
         {/* 2025 - 現時点 */}
